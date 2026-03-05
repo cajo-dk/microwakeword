@@ -3,7 +3,7 @@
   "wake_word": "Okay Nabu",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "/config/microwakeword/models/okay_nabu.tflite",
+  "model": "okay_nabu.tflite",
   "trained_languages": ["en","nl","fr","de","it","es","sv"],
   "version": 2,
   "micro": {
