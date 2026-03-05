@@ -3,7 +3,7 @@
   "wake_word": "igor",
   "author": "Alex",
   "website": "",
-  "model": "Igor.tflite",
+  "model": "igor.tflite",
   "trained_languages": [
     "en"
   ],
