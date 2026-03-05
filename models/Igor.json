@@ -3,7 +3,7 @@
   "wake_word": "igor",
   "author": "Alex",
   "website": "",
-  "model": "Igor.tflite",
+  "model": "https://raw.githubusercontent.com/cajo-dk/microwakeword/main/models/Igor.tflite",
   "trained_languages": [
     "en"
   ],
