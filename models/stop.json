@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Stop",
   "author": "Alex",
-  "website": "",
+  "website": "https://github.com/cajo-dk/microwakeword",
   "model": "stop.tflite",
   "trained_languages": ["en"],
   "version": 2,

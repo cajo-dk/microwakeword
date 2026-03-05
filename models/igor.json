@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "igor",
   "author": "Alex",
-  "website": "",
+  "website": "https://github.com/cajo-dk/microwakeword",
   "model": "igor.tflite",
   "trained_languages": [
     "en"
