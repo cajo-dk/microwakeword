@@ -3,7 +3,7 @@
   "wake_word": "Hey Igor",
   "author": "Alex",
   "website": "https://github.com/cajo-dk/microwakeword",
-  "model": "hey_igor.tflite",
+  "model": "hey_igor_smoke.tflite",
   "trained_languages": [
     "en"
   ],
