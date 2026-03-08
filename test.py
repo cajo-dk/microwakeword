@@ -10,7 +10,7 @@ from pymicro_features import MicroFrontend
 
 MODEL_PATH = Path("models/hey_igor.tflite")
 MANIFEST_PATH = Path("models/hey_igor.json")
-AUDIO_PATH = Path("sound2.m4a")
+AUDIO_PATH = Path("sound.m4a")
 SAMPLE_RATE = 16000
 
 
